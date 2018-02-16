@@ -1,2 +1,2 @@
 # DSA-CODES
-Some of my c++ codes in the field of DSA
+Some of my c, c++ codes in the field of DSA
